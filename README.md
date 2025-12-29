@@ -1,4 +1,5 @@
 Modules
+
 •	Candidate Registration Module
 •	Photo File Handling Module
 •	Signature Verification Module
@@ -6,7 +7,9 @@ Modules
 •	Display & Result Module
 
  Future Enhancements
+
 •	Implement real biometric recognition techniques
+
 •	Add encryption for secure data storage
 •	Store data in database files
 •	Include fingerprint or face recognition
